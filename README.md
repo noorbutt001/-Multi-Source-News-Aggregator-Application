@@ -1,10 +1,4 @@
-  ## You can now view your Streamlit app in your browser.
-
-  Local URL: http://localhost:8501
-  Network URL: http://192.168.100.8:8501
-  Open this link 
-
-  ## Project 12: Multi-Source News Aggregator Application
+## Multi-Source News Aggregator Application
 
 The Multi-Source News Aggregator Application is a Python-based software system designed to collect, process, 
 and present news articles from multiple sources in a single unified platform. In today’s fast-paced digital world, 
